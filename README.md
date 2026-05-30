@@ -26,7 +26,4 @@ Análisis SonarQube
 * **Archivo:** `ProductoService.java`, línea 12
 * **Descripción:** Se utiliza la anotación `@Autowired` directamente sobre el campo `repo`, lo que dificulta las pruebas unitarias y viola el principio de inyección de dependencias por constructor.
 
-## Capturas del dashboard
 
-![Dashboard SonarQube](docs/sonar-dashboard.png)
-![Detalle Bugs](docs/sonar-bugs.png)
